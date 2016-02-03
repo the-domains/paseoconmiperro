@@ -1,7 +1,7 @@
 name: paseoconmiperro
 favicon: null
 layout_spectrum: 0.24805
-typography_spectrum: 0.38520668214187026
+typography_spectrum: 0.49415
 title: 'Actividades para Perros en Colombia '
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7101390594616532
+    - '#ffffff'
+    - '#0195ff'
+    - '#030706'
+    - '#7dcffe'
+    - '#377800'
+  brandStrength: 0.375
   lightness: 0.29067180887795985
   saturation: 0.5135734155774117
   rhythmicContrast: 0.45545558095909655
