@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Actividades para Perros en Colombia ]]></title>
+        <description><![CDATA[Actividades para Perros en Colombia ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Feb 2016 01:42:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Este es un test</p>]]></description>
+            <link>undefined7b26ceb2-5aa6-4a2a-be63-f4e6db7736a9/index.html</link>
+            <guid isPermaLink="false">7b26ceb2-5aa6-4a2a-be63-f4e6db7736a9</guid>
+            <pubDate>Wed, 03 Feb 2016 01:41:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
