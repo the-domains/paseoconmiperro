@@ -1,4 +1,4 @@
-name: paseoconmiperro
+name: De paseo con mi perro
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.49415
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#030657'
-    - '#043bef'
-    - '#37b6fd'
-    - '#043700'
-    - '#5cb72a'
+    - '#ffffff'
+    - '#86c5bc'
+    - '#010101'
+    - '#493628'
+    - '#f8b020'
   brandStrength: 1
   lightness: 0.29067180887795985
   saturation: 0.5135734155774117
