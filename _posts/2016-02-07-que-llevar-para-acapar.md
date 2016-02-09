@@ -1,30 +1,31 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T18:35:41.904Z'
-dateModified: '2016-02-07T18:30:15.153Z'
-title: Que llevar para acapar?
+datePublished: '2016-02-09T02:59:09.942Z'
+dateModified: '2016-02-09T02:57:43.269Z'
+title: Que llevar para acampar?
 author: []
+sourcePath: _posts/2016-02-07-que-llevar-para-acapar.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-que-llevar-para-acapar.md
-published: true
 url: que-llevar-para-acapar/index.html
-_type: Article
+_type: WebPage
 
 ---
-# Que llevar para acapar?
+# Que llevar para acampar?
 
 Es muy importante  que tengamos una manera de recordar lo que necesitamos llevar de camping cuando acampamos con nuestro perros, vamos a dejar un listado categorizado y también recomendamos hacer uso de una aplicación móvil  para que a manera de checklist no se te olvide nada.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3489df8-4f77-4f2a-bc35-5d311e6625e5.jpg)
 
 Pueden visitar el vinculo de la aplicación PackPoint en [http://www.packpnt.com/][0]
 
