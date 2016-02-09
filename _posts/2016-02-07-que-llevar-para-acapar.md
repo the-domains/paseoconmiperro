@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T02:59:09.942Z'
-dateModified: '2016-02-09T02:57:43.269Z'
+datePublished: '2016-02-09T03:12:57.542Z'
+dateModified: '2016-02-09T03:12:54.220Z'
 title: Que llevar para acampar?
 author: []
 sourcePath: _posts/2016-02-07-que-llevar-para-acapar.md
