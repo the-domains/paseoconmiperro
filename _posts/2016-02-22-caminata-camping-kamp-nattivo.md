@@ -1,17 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=-pl65Hd4tRc&feature=youtu.be'
+inLanguage: es
+starred: true
+keywords: []
+description: 'Caminata por farayon por Camino Real con #Mr PixelDog en nuestro camping en Kamp Nattivo en Sutatusa.'
+datePublished: '2016-02-22T13:34:49.187Z'
+dateModified: '2016-02-22T13:33:55.408Z'
 author:
   - name: Camilo Andrés López Bernal
     url: 'https://www.youtube.com/channel/UCVoLspZUCS704bIpSyA4WxA'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Caminata por farayon por Camino Real con #Mr PixelDog en nuestro camping en Kamp Nattivo en Sutatusa.'
-inLanguage: es
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=-pl65Hd4tRc&feature=applinks'
     type: ios
@@ -49,15 +51,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=-pl65Hd4tRc&feature=youtu.be'
 title: Caminata Camping Kamp Nattivo
-datePublished: '2016-02-22T11:21:33.537Z'
-dateModified: '2016-02-22T11:00:50.570Z'
 sourcePath: _posts/2016-02-22-caminata-camping-kamp-nattivo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
