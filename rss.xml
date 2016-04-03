@@ -4,7 +4,7 @@
         <description><![CDATA[Actividades para Perros en Colombia ]]></description>
         <link>http://depaseoconmiperro.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 22:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 00:02:43 GMT</lastBuildDate>
         <atom:link href="http://depaseoconmiperro.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Caminata Camping Kamp Nattivo]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Sat, 20 Feb 2016 18:17:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mis Amigos]]></title>
+            <description><![CDATA[<article><h1>Mis Amigos</h1><p>Tasco</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bce45c5-fcbf-4fbe-9592-92bb568df8ab.jpg"></article>]]></description>
+            <link>http://depaseoconmiperro.com/mis-amigos/index.html</link>
+            <guid isPermaLink="false">2cc6fe48-eb28-422e-9ad5-4fae0830cb46</guid>
+            <pubDate>Sun, 03 Apr 2016 00:02:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pixel en la Piscina]]></title>
-            <description><![CDATA[<article><h1>Pixel en la Piscina</h1><p>Una escapada a la Mesa en paseo familar para un chapuzon de MrPixelDog</p></article>]]></description>
+            <description><![CDATA[<article><h1>Pixel en la Piscina</h1><p>Una escapada a la Mesa en paseo familar para un chapuzon de MrPixelDog</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac37b1f37dcb9fa6183cc75c9cfe0bfda04133a5.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=fPFQYP09_IQ</link>
             <guid isPermaLink="false">ca079418-5b70-4035-9bcd-e6b0ad995d2e</guid>
             <pubDate>Sat, 27 Feb 2016 22:51:39 GMT</pubDate>
